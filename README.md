@@ -4,6 +4,7 @@ Block Microsoft Windows 10 telemetry server as recommended by BSI ([Bundesamt f√
 Just plain text for use in adblocker (e.g. [Pi-Hole](https://pi-hole.net/))
 
 Usage:
+
 Put `https://raw.githubusercontent.com/winkler-winsen/microsoft-telemetry-blocklist-BSI-/master/ms-win10-telemetry-blocklist.txt` into your adblocker to use this list.
 
 Sources: 
